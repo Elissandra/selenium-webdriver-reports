@@ -4,7 +4,7 @@ Projeto para implementar testes de automação web com selenium webdriver + java
 
 Local dos relátorios:
 
--> target/reports/index.html (Relatórios simples: Via run da IDE)
+-> target/reports/index.html (Relatórios simples: Via run da IDE)  
 -> target/formated-report/index.html (Relatórios gráficos: Via comando no terminal)
 
 
@@ -42,5 +42,6 @@ mvn test -Dtest=**/*RunCucumberTest cluecumber-report:reporting
 # Test Plan
 
 
+![MindMap](https://github.com/user-attachments/assets/10fa7065-e851-48cb-9768-74a8f5ed3fd8)
 
 
