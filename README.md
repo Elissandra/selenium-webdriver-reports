@@ -2,18 +2,18 @@
 
 Projeto para implementar testes de automação web com selenium webdriver + java + cucumber (BDD/Gherkin) no site da aplicação https://qazando.com.br/curso.html e gerar relatórios em arquivos html com os resultados dos testes.
 
-Visualizar relatórios:
+* Visualizar relatórios:
 
--> test-report/described-report/index.html (Relatório simples) 
+  -> test-report/described-report/index.html (Relatório simples) 
 
--> test-report/graphic-report/index.html (Relatório gráfico)
+  -> test-report/graphic-report/index.html (Relatório gráfico)
 
 
-Local onde serão gerados os relatórios ao executar os testes:
+* Local onde serão gerados os relatórios ao executar os testes:
 
--> target/reports/index.html (Relatório simples) 
+  -> target/reports/index.html (Relatório simples) 
 
--> target/formated-report/index.html (Relatório gráfico)
+  -> target/formated-report/index.html (Relatório gráfico)
 
 
 # Objetivo
