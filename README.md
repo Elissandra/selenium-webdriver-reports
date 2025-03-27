@@ -4,13 +4,15 @@ Projeto para implementar testes de automação web com selenium webdriver + java
 
 Visualizar relatórios:
 
--> test-report/described-report/index.html (Relatório simples)
+-> test-report/described-report/index.html (Relatório simples) 
+
 -> test-report/graphic-report/index.html (Relatório gráfico)
 
 
 Local onde serão gerados os relatórios ao executar os testes:
 
--> target/reports/index.html (Relatório simples)
+-> target/reports/index.html (Relatório simples) 
+
 -> target/formated-report/index.html (Relatório gráfico)
 
 
