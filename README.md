@@ -13,9 +13,9 @@ Projeto para implementar testes de automação web com selenium webdriver + java
 
 * Local onde visualizar modelo dos relatórios em arquivo png:
 
-  -> test-report/described-report/described-report.png (Relatório simples) 
+  -> test-reports/described-report/described-report.png (Relatório simples) 
 
-  -> test-report/graphic-report/graphic-report.png (Relatório gráfico)
+  -> test-reports/graphic-report/graphic-report.png (Relatório gráfico)
 
 
 # Objetivo
