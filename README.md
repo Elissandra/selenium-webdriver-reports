@@ -52,5 +52,5 @@ mvn test -Dtest=**/*RunCucumberTest cluecumber-report:reporting
 # Test Plan
 
 
-
+![MindMap](https://github.com/user-attachments/assets/efe0067e-124c-41ea-9b20-7bc1bbed19cb)
 
