@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2c8ed56-b3ab-4957-9aeb-1d64601954c8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/described-report/cucumberReport.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/described-report/formatter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/described-report/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/described-report/jquery-1.8.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/described-report/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/described-report/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/graphic-report/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/graphic-report/css/cluecumber.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/graphic-report/css/dataTables.bootstrap4.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/graphic-report/css/datatables.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/graphic-report/css/jquery.fancybox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/graphic-report/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/graphic-report/js/Chart.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/graphic-report/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/graphic-report/js/datatables.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/graphic-report/js/jquery.fancybox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/graphic-report/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/graphic-report/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/graphic-report/pages/feature-scenarios/feature_0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/graphic-report/pages/feature-scenarios/feature_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/graphic-report/pages/feature-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/graphic-report/pages/scenario-detail/scenario_0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/graphic-report/pages/scenario-detail/scenario_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/graphic-report/pages/scenario-detail/scenario_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/graphic-report/pages/scenario-detail/scenario_3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/graphic-report/pages/tag-scenarios/tag_cadastro-sucesso.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/graphic-report/pages/tag-scenarios/tag_gerar-cupom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/graphic-report/pages/tag-scenarios/tag_login-sucesso.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/graphic-report/pages/tag-scenarios/tag_teste-falha.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-reports/graphic-report/pages/tag-summary.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2uvEalR29RoO7WY6SAdR7l4MPuA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.RunCucumberTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/olive/Documents/selenium-webdriver-reports"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="RunCucumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-webdriver-reports" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.RunCucumberTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunCucumberTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2c8ed56-b3ab-4957-9aeb-1d64601954c8" name="Changes" comment="" />
+      <created>1743120720189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743120720189</updated>
+    </task>
+    <servers />
+  </component>
+</project>
